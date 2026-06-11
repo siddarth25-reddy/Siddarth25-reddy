@@ -97,7 +97,7 @@ I'm a passionate CS student at BV Raju Institute of Technology, constantly explo
 <p align="center">
   <a href="https://www.linkedin.com/in/siddarth-reddy-398483294"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
   &nbsp;
-  <a href="mailto:siddarthreddy@example.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:siddarthreddy4017@gsmil.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <p align="center">
   <i>"First, solve the problem. Then, write the code." — John Johnson</i>
